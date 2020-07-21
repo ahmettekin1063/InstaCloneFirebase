@@ -1,4 +1,4 @@
-# MyLoc
+# InstaCloneFirebase
 
 ## References 
 
